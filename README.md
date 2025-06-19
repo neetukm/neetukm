@@ -65,8 +65,8 @@
 - 📈 **[Social Media Analysis](https://github.com/neetukm/Social-Media-Analysis)**<br>
   Analyzing social media trends and extracting insights using Jupyter Notebook and Python.
 
-- 📦 **[Inventory Analysis Case Study](https://github.com/neetukm/Inventory-Analysis-Case-Study-)**<br>
-  Data-driven case study focusing on inventory optimization and analysis.
+- 📦 **[ML-Model-Comparison-Dashboard](https://github.com/nikhil9276/ML-Model-Comparison-Dashboard)**  
+  Dashboard for comparing machine learning models across various metrics.
 
 - 🫁 **[LUNG CANCER Prediction Analysis](https://github.com/neetukm/LUNG-CANCER-Prediction-Analysis)**<br>
   Machine learning-based project for predicting and analyzing lung cancer data.
