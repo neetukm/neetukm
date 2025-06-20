@@ -68,8 +68,8 @@
 - 📦 **[ML-Model-Comparison-Dashboard](https://github.com/nikhil9276/ML-Model-Comparison-Dashboard)**  
   Dashboard for comparing machine learning models across various metrics.
 
-- 🫁 **[LUNG CANCER Prediction Analysis](https://github.com/neetukm/LUNG-CANCER-Prediction-Analysis)**<br>
-  Machine learning-based project for predicting and analyzing lung cancer data.
+- 🫁 **[Data Mavens( Air Quality Index)](https://github.com/RaviVarma28/B41_DA_010_Data-Mavens)**<br>
+  Collaborative data analytics project exploring real-world datasets through data cleaning, visualization, and insights generation.
 - ...and more on my <a href="https://neetukumari.netlify.app/">portfolio</a>!
 
 ---
